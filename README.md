@@ -47,4 +47,4 @@ A full-featured hotel management dashboard built with **React**, **Next.js**, **
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/hotel-dashboard.git
+   git clone https://github.com/Wahid-Halim/Hotel-Management-Dashboard.git
